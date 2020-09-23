@@ -11,3 +11,6 @@ I've attached the rough code snippets I've used to clean it. Essentially my flow
 ->Name each CSVfile to a [articular standard, making it easy for calling the data during backtesting
 -> Name each folder correspondingly
 -> Name the first column of each CSV with the updated CSV name. (Didn't look like it was needed but I thought I won't take the chance)
+
+If you are choosing to use the data, you do so at your discretion. The author and I am not responsible for any damage.
+Feel free to contact me if you find mistakes in my code.
